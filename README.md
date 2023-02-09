@@ -1,8 +1,2 @@
-## sbt project compiled with Scala 3
-
-### Usage
-
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
-
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+# ZIO from scratch
+Scala 3 ZIO implementation made following the amazing videos from the Ziverge series on building ZIO from scratch (part [0](https://www.youtube.com/watch?v=TAN6eWaUdEg), [1](https://www.youtube.com/watch?v=-wLj_GJyvGU), [2](https://www.youtube.com/watch?v=Yj8vXEUYLrA), [3](https://www.youtube.com/watch?v=lcd1D_ToJJY), [4](https://www.youtube.com/watch?v=f7FiCXG6gQY), [5](https://www.youtube.com/watch?v=O31_cMcP4-8))
